@@ -19,6 +19,10 @@ class ComposerStaticInit234220f378878a39dd9b3781a9b064ff
         array (
             'Symfony\\Polyfill\\Mbstring\\' => 26,
         ),
+        'P' => 
+        array (
+            'PHPMailer\\PHPMailer\\' => 20,
+        ),
         'G' => 
         array (
             'Giggsey\\Locale\\' => 15,
@@ -33,6 +37,10 @@ class ComposerStaticInit234220f378878a39dd9b3781a9b064ff
         'Symfony\\Polyfill\\Mbstring\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-mbstring',
+        ),
+        'PHPMailer\\PHPMailer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
         'Giggsey\\Locale\\' => 
         array (
